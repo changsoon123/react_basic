@@ -6,6 +6,8 @@ import ChangeEvent from './component/chap01_event/ChangeEvent';
 import ClickEvent from './component/chap01_event/ClickEvent';
 import SubmitEvent from './component/chap01_event/SubmitEvent';
 import FoodList from './component/chap02_props/FoodList';
+import NickName from './component/chap03_state/NickName';
+import Counter from './component/chap03_state/Counter';
 
 
 //리액트에서는 하나의 컴포넌트가 여러개의 엘리먼트를 반환할 수 있다.
@@ -30,8 +32,8 @@ function App() {
   return (
       <>
       
-      <FoodList/>
-
+      <Counter />
+      
       </>
   );
 }
