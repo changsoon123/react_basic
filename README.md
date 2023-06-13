@@ -56,10 +56,10 @@ $npm install
 
 vscode 확장 추천
 
-Korean Language Pack for Visual Studio Code
-Auto Close Tag
-Beautify
-ES7+ React/Redux/React-Native snippets
-Live Server
-Power Mode <---개인 취향
-vscode-styled-components
+Korean Language Pack for Visual Studio Code,
+Auto Close Tag,
+Beautify,
+ES7+ React/Redux/React-Native snippets,
+Live Server,
+Power Mode <---개인 취향 ,
+vscode-styled-components, 
