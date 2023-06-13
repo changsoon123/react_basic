@@ -45,3 +45,21 @@ React 컴포넌트를 작성하고 개발을 시작할 수 있습니다.
 이렇게 하면 변경 사항이 저장될 때마다 프로젝트가 자동으로 다시 로드됩니다. 
 
 개발 서버는 기본적으로 **`http://localhost:3000`**에서 실행됩니다.
+
+--------------------------------------------------------------------------------------------
+
+react 깃허브 clone 시 주의사항
+
+$npm install
+
+---------------------------------------------------------------------------------------------
+
+vscode 확장 추천
+
+Korean Language Pack for Visual Studio Code
+Auto Close Tag
+Beautify
+ES7+ React/Redux/React-Native snippets
+Live Server
+Power Mode <---개인 취향
+vscode-styled-components
